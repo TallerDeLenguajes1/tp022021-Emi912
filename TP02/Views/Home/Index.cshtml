@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+<form asp-action="Form" class="row g-3">
+    <div class="col-md-4">
+        <label for="validationDefault01" class="form-label">Nombre</label>
+        <input type="text" class="form-control" name="nombre" id="validationDefault01" value="" required>
+    </div>
+    <div class="col-md-4">
+        <label for="validationDefault02" class="form-label">Apellido</label>
+        <input type="text" class="form-control" name="apellido" id="validationDefault02" value="" required>
+    </div>
+    <div class="col-md-4">
+        <label for="validationDefault02" class="form-label">Fecha Nacimiento</label>
+        <input type="date" class="form-control" name="fnacimiento" id="validationDefault02" value="" required>
+    </div>
+    <div class="col-md-4">
+        <label for="validationDefault02" class="form-label">Edad</label>
+        <input type="text" class="form-control" name="edad" id="validationDefault02" value="" required>
+    </div>
+    <div class="col-md-4">
+        <label for="validationDefault02" class="form-label">Fecha de Ingreso</label>
+        <input type="date" class="form-control" name="fechadeIngreso" id="validationDefault02" value="" required>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="rol" id="inlineRadio1" value="Programador">
+        <label class="form-check-label" for="inlineRadio1">Programador</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="rol" id="inlineRadio2" value="Jefe">
+        <label class="form-check-label" for="inlineRadio2">Jefe</label>
+    </div>
+    <div class="col-md-4">
+        <label for="validationDefault02" class="form-label">Direccion</label>
+        <input type="text" class="form-control" name="direccion" id="validationDefault02" value="" required>
+    </div>
+
+    <div class="col-md-12 mt-2">
+        <button type="submit" class="btn btn-primary mb-3">Confirm identity</button>
+    </div>
+    
+
+</form>
+

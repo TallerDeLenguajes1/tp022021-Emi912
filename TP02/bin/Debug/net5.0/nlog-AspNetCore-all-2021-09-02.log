@@ -1,0 +1,165 @@
+2021-09-02 19:05:13.1469|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:05:14.2742|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:05:14.3429|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:05:14.3607|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:06:12.2539|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:06:13.3713|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:06:13.3713|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:06:13.3902|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:06:29.1745|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:06:30.1157|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:06:30.1245|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:06:30.1348|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:06:30.1976|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:09:37.7570|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:09:39.1828|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:09:39.2075|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:09:39.2157|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:09:39.3560|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:18:30.0375|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:18:31.3663|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:18:31.3753|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:18:31.3753|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:18:31.4587|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:18:34.8198|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:18:35.5901|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:18:36.0649|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:18:37.3270|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:21:02.9653|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:21:04.7445|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:21:04.7611|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:21:04.7611|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:21:04.8455|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:21:25.1633|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:21:26.3031|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:21:26.3139|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:21:26.3233|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:21:26.3872|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:22:37.6693|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:22:39.4843|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:22:39.4955|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:22:39.4955|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:22:39.5715|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:23:13.6071|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:23:18.6951|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:23:31.5257|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:23:44.0820|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:23:45.1602|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:23:45.1739|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:23:45.1825|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:23:45.2581|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:24:09.0071|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:24:10.2233|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:24:10.2346|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:24:10.2426|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:24:10.3093|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:24:42.7119|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:24:43.8507|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:24:43.8639|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:24:43.8749|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:24:43.9421|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:27:13.5418|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:27:14.5502|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:27:14.5624|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:27:14.6036|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:27:14.6700|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:28:15.9666|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:28:17.0929|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:28:17.1113|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:28:17.1181|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:28:17.1874|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:29:28.5593|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:29:30.0952|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:29:30.1699|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:29:30.1699|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:29:30.2681|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:29:48.5013|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:29:49.7278|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:29:49.7278|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:29:49.7477|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:29:49.8110|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:30:46.7428|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:30:47.9003|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:30:47.9003|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:30:47.9165|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:30:47.9966|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:31:24.3606|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:31:25.4684|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:31:25.4801|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:31:25.4801|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:31:25.5517|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:32:11.2262|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:32:12.3444|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:32:12.3529|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:32:12.3529|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:32:12.4330|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:32:38.5247|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:32:39.6483|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:32:39.6538|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:32:39.6538|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:32:39.7314|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:33:14.8286|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:33:15.9995|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:33:16.0105|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:33:16.0105|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:33:16.0834|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:33:36.0848|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:33:37.3173|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:33:37.3311|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:33:37.3383|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:33:37.4088|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:34:22.6109|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:34:23.7093|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:34:23.7215|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:34:23.7289|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:34:23.7940|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:34:47.8800|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:34:48.9284|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:34:48.9671|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:34:48.9774|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:34:49.0442|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:35:22.7027|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:35:23.9894|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:35:24.0062|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:35:24.0145|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:35:24.0973|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:36:15.1574|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:36:16.2533|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:36:16.2622|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:36:16.2622|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:36:16.3351|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:36:40.5962|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:36:41.7594|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:36:41.7594|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:36:41.7825|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:36:41.8516|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:37:03.3165|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:37:05.0341|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:37:05.0465|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:37:05.0549|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:37:05.1527|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:39:43.1222|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:39:44.6953|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:39:44.7158|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:39:44.7158|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:39:44.8270|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:40:04.2852|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:40:05.3811|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:40:05.3908|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:40:05.4007|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:40:05.4709|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:40:23.7477|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:40:24.9015|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:40:24.9159|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:40:24.9159|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:40:24.9869|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:43:20.5603|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:43:21.4810|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:43:21.4810|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:43:21.5006|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:43:21.5660|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
+2021-09-02 19:44:34.1479|0|DEBUG|TP02.Program|init main 
+2021-09-02 19:44:35.1283|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-09-02 19:44:35.1410|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-09-02 19:44:35.1410|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Emilio\source\repos\TP02 Taller Lenguajes II\TP02 
+2021-09-02 19:44:35.2292|0|INFO|TP02.Controllers.HomeController|Hello, this is the index! 
